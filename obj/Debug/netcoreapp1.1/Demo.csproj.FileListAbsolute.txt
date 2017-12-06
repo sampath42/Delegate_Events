@@ -1,0 +1,24 @@
+c:\Bingi\Delegates & Events\Demo\bin\Debug\netcoreapp1.1\Demo.deps.json
+c:\Bingi\Delegates & Events\Demo\bin\Debug\netcoreapp1.1\Demo.runtimeconfig.json
+c:\Bingi\Delegates & Events\Demo\bin\Debug\netcoreapp1.1\Demo.runtimeconfig.dev.json
+c:\Bingi\Delegates & Events\Demo\bin\Debug\netcoreapp1.1\Demo.dll
+c:\Bingi\Delegates & Events\Demo\bin\Debug\netcoreapp1.1\Demo.pdb
+c:\Bingi\Delegates & Events\Demo\obj\Debug\netcoreapp1.1\Demo.csproj.CoreCompileInputs.cache
+c:\Bingi\Delegates & Events\Demo\obj\Debug\netcoreapp1.1\Demo.AssemblyInfo.cs
+c:\Bingi\Delegates & Events\Demo\obj\Debug\netcoreapp1.1\Demo.dll
+c:\Bingi\Delegates & Events\Demo\obj\Debug\netcoreapp1.1\Demo.pdb
+f:\Important\From EPAM\My Trainings\Delegates and Events\Demo\obj\Debug\netcoreapp1.1\Demo.csproj.CoreCompileInputs.cache
+f:\Important\From EPAM\My Trainings\Delegates and Events\Demo\obj\Debug\netcoreapp1.1\Demo.AssemblyInfoInputs.cache
+f:\Important\From EPAM\My Trainings\Delegates and Events\Demo\obj\Debug\netcoreapp1.1\Demo.AssemblyInfo.cs
+f:\Important\From EPAM\My Trainings\Delegates and Events\Demo\obj\Debug\netcoreapp1.1\Demo.dll
+f:\Important\From EPAM\My Trainings\Delegates and Events\Demo\obj\Debug\netcoreapp1.1\Demo.pdb
+f:\Important\From EPAM\Training PPTs\Delegates and Events\Demo\bin\Debug\netcoreapp1.1\Demo.deps.json
+f:\Important\From EPAM\Training PPTs\Delegates and Events\Demo\bin\Debug\netcoreapp1.1\Demo.runtimeconfig.json
+f:\Important\From EPAM\Training PPTs\Delegates and Events\Demo\bin\Debug\netcoreapp1.1\Demo.runtimeconfig.dev.json
+f:\Important\From EPAM\Training PPTs\Delegates and Events\Demo\bin\Debug\netcoreapp1.1\Demo.dll
+f:\Important\From EPAM\Training PPTs\Delegates and Events\Demo\bin\Debug\netcoreapp1.1\Demo.pdb
+f:\Important\From EPAM\Training PPTs\Delegates and Events\Demo\obj\Debug\netcoreapp1.1\Demo.csproj.CoreCompileInputs.cache
+f:\Important\From EPAM\Training PPTs\Delegates and Events\Demo\obj\Debug\netcoreapp1.1\Demo.AssemblyInfoInputs.cache
+f:\Important\From EPAM\Training PPTs\Delegates and Events\Demo\obj\Debug\netcoreapp1.1\Demo.AssemblyInfo.cs
+f:\Important\From EPAM\Training PPTs\Delegates and Events\Demo\obj\Debug\netcoreapp1.1\Demo.dll
+f:\Important\From EPAM\Training PPTs\Delegates and Events\Demo\obj\Debug\netcoreapp1.1\Demo.pdb
