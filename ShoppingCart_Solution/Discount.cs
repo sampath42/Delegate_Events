@@ -6,7 +6,7 @@ namespace ShoppingCart_Solution
     public delegate bool IsProductEligible(Product p);
     public class Discount
     {
-        public static void ApplyDiscount(List<Product> products, IsProductEligible isProductEligible)
+        public static void ApplyDiscount(IList<Product> products, IsProductEligible isProductEligible)
         {
             foreach(Product product in products)
             {

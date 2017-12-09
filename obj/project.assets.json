@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "f:\\Important\\From EPAM\\Training PPTs\\Delegates and Events\\Demo_GIT\\Delegate_Events\\Demo.csproj",
+      "projectUniqueName": "F:\\Important\\From EPAM\\Training PPTs\\Delegates and Events\\Demo_GIT\\Delegate_Events\\Demo.csproj",
       "projectName": "Demo",
-      "projectPath": "f:\\Important\\From EPAM\\Training PPTs\\Delegates and Events\\Demo_GIT\\Delegate_Events\\Demo.csproj",
+      "projectPath": "F:\\Important\\From EPAM\\Training PPTs\\Delegates and Events\\Demo_GIT\\Delegate_Events\\Demo.csproj",
       "packagesPath": "C:\\Users\\Sampath\\.nuget\\packages\\",
-      "outputPath": "f:\\Important\\From EPAM\\Training PPTs\\Delegates and Events\\Demo_GIT\\Delegate_Events\\obj\\",
+      "outputPath": "F:\\Important\\From EPAM\\Training PPTs\\Delegates and Events\\Demo_GIT\\Delegate_Events\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
