@@ -1,15 +1,10 @@
 using System;
 using System.Collections.Generic;
 
-namespace Demo{
-    public class Product
-    {        
-        public string Name{get;set;}
-        public string Category{get;set;}
-        public double Amount{get;set;}             
-    }
-
-    public class ShoppingCart
+namespace ShoppingCart_Solution
+{
+    public delegate bool IsProductEligible(Product p);
+    public class Discount
     {
         public static void ApplyDiscount(List<Product> products, IsProductEligible isProductEligible)
         {
@@ -20,6 +15,6 @@ namespace Demo{
                     Console.WriteLine($"Discount Applied to {product.Name}");
                 }
             }
-        } 
+        }
     }
 }

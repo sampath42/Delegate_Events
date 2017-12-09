@@ -8,3 +8,13 @@ F:\Important\From EPAM\Training PPTs\Delegates and Events\Demo\bin\Debug\netcore
 F:\Important\From EPAM\Training PPTs\Delegates and Events\Demo\bin\Debug\netcoreapp2.0\Demo.pdb
 F:\Important\From EPAM\Training PPTs\Delegates and Events\Demo\obj\Debug\netcoreapp2.0\Demo.dll
 F:\Important\From EPAM\Training PPTs\Delegates and Events\Demo\obj\Debug\netcoreapp2.0\Demo.pdb
+F:\Important\From EPAM\Training PPTs\Delegates and Events\Demo_GIT\Delegate_Events\obj\Debug\netcoreapp2.0\Demo.csproj.CoreCompileInputs.cache
+F:\Important\From EPAM\Training PPTs\Delegates and Events\Demo_GIT\Delegate_Events\obj\Debug\netcoreapp2.0\Demo.AssemblyInfoInputs.cache
+F:\Important\From EPAM\Training PPTs\Delegates and Events\Demo_GIT\Delegate_Events\obj\Debug\netcoreapp2.0\Demo.AssemblyInfo.cs
+F:\Important\From EPAM\Training PPTs\Delegates and Events\Demo_GIT\Delegate_Events\obj\Debug\netcoreapp2.0\Demo.dll
+F:\Important\From EPAM\Training PPTs\Delegates and Events\Demo_GIT\Delegate_Events\obj\Debug\netcoreapp2.0\Demo.pdb
+F:\Important\From EPAM\Training PPTs\Delegates and Events\Demo_GIT\Delegate_Events\bin\Debug\netcoreapp2.0\Demo.deps.json
+F:\Important\From EPAM\Training PPTs\Delegates and Events\Demo_GIT\Delegate_Events\bin\Debug\netcoreapp2.0\Demo.runtimeconfig.json
+F:\Important\From EPAM\Training PPTs\Delegates and Events\Demo_GIT\Delegate_Events\bin\Debug\netcoreapp2.0\Demo.runtimeconfig.dev.json
+F:\Important\From EPAM\Training PPTs\Delegates and Events\Demo_GIT\Delegate_Events\bin\Debug\netcoreapp2.0\Demo.dll
+F:\Important\From EPAM\Training PPTs\Delegates and Events\Demo_GIT\Delegate_Events\bin\Debug\netcoreapp2.0\Demo.pdb

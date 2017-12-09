@@ -1,4 +1,4 @@
-namespace Demo
+namespace Delegate_Events.ProgressIndicator
 {
     public interface IProgressIndicator
     {
