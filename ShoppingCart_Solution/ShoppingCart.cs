@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace ShoppingCart_Solution
 {    
     public class ShoppingCart
-    {
+    {        
         public void ApplyDiscount()
         {
             var products = (new Product()).GetProducts();
