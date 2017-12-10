@@ -10,8 +10,10 @@ namespace ShoppingCart_Event
        
         public List<Product> Products {get;set;}  
 
-        public delegate void ShoppingCartEventHandler(object sender, ShoppingCartEventArgs args);
-        public event ShoppingCartEventHandler ShoppingCartChanged;    
+        // public delegate void ShoppingCartEventHandler(object sender, ShoppingCartEventArgs args);
+        // public event ShoppingCartEventHandler ShoppingCartChanged;
+
+        public event EventHandler<ShoppingCartEventArgs> ShoppingCartChanged;    
 
         public ShoppingCart()
         {
