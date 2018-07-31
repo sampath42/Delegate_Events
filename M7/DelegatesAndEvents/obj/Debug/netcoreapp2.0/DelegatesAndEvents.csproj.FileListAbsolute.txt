@@ -1,0 +1,11 @@
+E:\Bingi\Bingi\EPAM Mentor Mentee Programe Assignments\MS.NetBatch3\M7\DelegatesAndEvents\bin\Debug\netcoreapp2.0\DelegatesAndEvents.deps.json
+E:\Bingi\Bingi\EPAM Mentor Mentee Programe Assignments\MS.NetBatch3\M7\DelegatesAndEvents\bin\Debug\netcoreapp2.0\DelegatesAndEvents.runtimeconfig.json
+E:\Bingi\Bingi\EPAM Mentor Mentee Programe Assignments\MS.NetBatch3\M7\DelegatesAndEvents\bin\Debug\netcoreapp2.0\DelegatesAndEvents.runtimeconfig.dev.json
+E:\Bingi\Bingi\EPAM Mentor Mentee Programe Assignments\MS.NetBatch3\M7\DelegatesAndEvents\bin\Debug\netcoreapp2.0\DelegatesAndEvents.dll
+E:\Bingi\Bingi\EPAM Mentor Mentee Programe Assignments\MS.NetBatch3\M7\DelegatesAndEvents\bin\Debug\netcoreapp2.0\DelegatesAndEvents.pdb
+E:\Bingi\Bingi\EPAM Mentor Mentee Programe Assignments\MS.NetBatch3\M7\DelegatesAndEvents\obj\Debug\netcoreapp2.0\DelegatesAndEvents.csprojResolveAssemblyReference.cache
+E:\Bingi\Bingi\EPAM Mentor Mentee Programe Assignments\MS.NetBatch3\M7\DelegatesAndEvents\obj\Debug\netcoreapp2.0\DelegatesAndEvents.csproj.CoreCompileInputs.cache
+E:\Bingi\Bingi\EPAM Mentor Mentee Programe Assignments\MS.NetBatch3\M7\DelegatesAndEvents\obj\Debug\netcoreapp2.0\DelegatesAndEvents.AssemblyInfoInputs.cache
+E:\Bingi\Bingi\EPAM Mentor Mentee Programe Assignments\MS.NetBatch3\M7\DelegatesAndEvents\obj\Debug\netcoreapp2.0\DelegatesAndEvents.AssemblyInfo.cs
+E:\Bingi\Bingi\EPAM Mentor Mentee Programe Assignments\MS.NetBatch3\M7\DelegatesAndEvents\obj\Debug\netcoreapp2.0\DelegatesAndEvents.dll
+E:\Bingi\Bingi\EPAM Mentor Mentee Programe Assignments\MS.NetBatch3\M7\DelegatesAndEvents\obj\Debug\netcoreapp2.0\DelegatesAndEvents.pdb
