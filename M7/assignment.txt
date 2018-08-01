@@ -1,0 +1,9 @@
+Develop a shopping cart for an online shopping, should apply the following things
+1. Implement seasonal based Discount for particular category of products (free to choose any category)
+	eg: On Diwali season few categories like cloths and electronics are eligible for discounts, for Ramzan and Dushera dresings and footwear are eligible for discounts.
+	Note: Dont hardcode the seasons and categories, Seasons and Categories are inputs to the application.
+Make use of the delegate methods for loosly coupled implementation, so that system should work with any kind of inputs
+2. Send a notification when any product is added to cart, any discount is applied to certain product 
+3. On completion of purchase, send a notification and also display the status on the screen
+
+Note: Don`t try to implement a core logic, just write Console.WriteLine

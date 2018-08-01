@@ -1,0 +1,7 @@
+E:\Bingi\Bingi\EPAM Mentor Mentee Programe Assignments\MS.NetBatch3\M7\Delegates_Events\Delegates_Events\Delegates_Events\bin\Debug\Delegates_Events.exe.config
+E:\Bingi\Bingi\EPAM Mentor Mentee Programe Assignments\MS.NetBatch3\M7\Delegates_Events\Delegates_Events\Delegates_Events\bin\Debug\Delegates_Events.exe
+E:\Bingi\Bingi\EPAM Mentor Mentee Programe Assignments\MS.NetBatch3\M7\Delegates_Events\Delegates_Events\Delegates_Events\bin\Debug\Delegates_Events.pdb
+E:\Bingi\Bingi\EPAM Mentor Mentee Programe Assignments\MS.NetBatch3\M7\Delegates_Events\Delegates_Events\Delegates_Events\obj\Debug\Delegates_Events.csprojResolveAssemblyReference.cache
+E:\Bingi\Bingi\EPAM Mentor Mentee Programe Assignments\MS.NetBatch3\M7\Delegates_Events\Delegates_Events\Delegates_Events\obj\Debug\Delegates_Events.csproj.CoreCompileInputs.cache
+E:\Bingi\Bingi\EPAM Mentor Mentee Programe Assignments\MS.NetBatch3\M7\Delegates_Events\Delegates_Events\Delegates_Events\obj\Debug\Delegates_Events.exe
+E:\Bingi\Bingi\EPAM Mentor Mentee Programe Assignments\MS.NetBatch3\M7\Delegates_Events\Delegates_Events\Delegates_Events\obj\Debug\Delegates_Events.pdb
