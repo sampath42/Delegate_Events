@@ -4,6 +4,7 @@ namespace DelegatesAndEvents
 {
     public delegate void WorkPerformedHandler(int hours, string workToDo);
     public delegate int WorkPerformedHandlerReturn(int hours, string workToDo);
+
     class Program
     {
         static void Main(string[] args)
@@ -39,7 +40,24 @@ namespace DelegatesAndEvents
 
             // Console.WriteLine(hoursSpentForWork1);
             // Console.WriteLine(hoursSpentForWork2);
+
+            //===============================================//
+
+            // Worker worker = new Worker();
+            // worker.WorkPerformed += new EventHandler<WorkPerformedEventArgs>(WorkPerformed);
+            // worker.WorkCompleted += WorkCompleted;
+            // worker.DoWork(5,"work from worker class");
             
+        }
+
+        private static void WorkCompleted(object sender, EventArgs e)
+        {
+            Console.WriteLine("Work Completed");
+        }
+
+        static void WorkPerformed(object sender, WorkPerformedEventArgs e)
+        {
+            Console.WriteLine($"{e.Hours} --> {e.WorkToDo}");
         }
 
         static void DoWork(int hours, WorkPerformedHandler workPerformed_Work1)
